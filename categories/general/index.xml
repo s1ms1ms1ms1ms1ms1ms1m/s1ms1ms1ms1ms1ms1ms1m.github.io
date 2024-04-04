@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on s1m</title>
+    <link>https://s1ms1ms1ms1ms1ms1ms1m.github.io/categories/general/</link>
+    <description>Recent content in General on s1m</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://s1ms1ms1ms1ms1ms1ms1m.github.io/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first post</title>
+      <link>https://s1ms1ms1ms1ms1ms1ms1m.github.io/post/first-post/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://s1ms1ms1ms1ms1ms1ms1m.github.io/post/first-post/</guid>
+      <description>hello&#xA;this is the first post on this blog, april 14 2024. ive just destroyed some pour soul&amp;rsquo;s hugo css to make this&#xA;the point of this site is to post takes/thoughts. there are some philosophical reasons to having your own blog and expressing your views online. i think it would be cool if unknown strangers found this mysterious webpage and agreed with some of the future posts&#xA;the goal is to go as MINIMAL AS POSSIBLE.</description>
+    </item>
+  </channel>
+</rss>
