@@ -6,14 +6,21 @@
     <description>Recent content in General on s1m</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://s1ms1ms1ms1ms1ms1ms1m.github.io/categories/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Typewriter-like internet presence</title>
+      <link>https://s1ms1ms1ms1ms1ms1ms1m.github.io/posts/typerwiter-presence/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://s1ms1ms1ms1ms1ms1ms1m.github.io/posts/typerwiter-presence/</guid>
+      <description>My friend commented that `this is the second-best type of internet presence, after having none&amp;rsquo; after I showed this blog. I fully agree, and in this post, I want to talk about the state of the internet and possible motivations for making an anonymous internet blog. Maybe you will be inspired to do the same, and we can RETVRN to a low-entropy 90s internet, or at least understand its value.</description>
+    </item>
+    <item>
       <title>first post</title>
-      <link>https://s1ms1ms1ms1ms1ms1ms1m.github.io/post/first-post/</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://s1ms1ms1ms1ms1ms1ms1m.github.io/post/first-post/</guid>
-      <description>hello&#xA;this is the first post on this blog, april 14 2024. ive just destroyed some pour soul&amp;rsquo;s hugo css to make this&#xA;the point of this site is to post takes/thoughts. there are some philosophical reasons to having your own blog and expressing your views online. i think it would be cool if unknown strangers found this mysterious webpage and agreed with some of the future posts&#xA;the goal is to go as MINIMAL AS POSSIBLE.</description>
+      <link>https://s1ms1ms1ms1ms1ms1ms1m.github.io/posts/first-post/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://s1ms1ms1ms1ms1ms1ms1m.github.io/posts/first-post/</guid>
+      <description>hello&#xA;this is the first post on this blog, april 4 2024. ive just destroyed some pour soul&amp;rsquo;s hugo css to make this&#xA;the point of this site is to post takes/thoughts. there are some philosophical reasons to having your own blog and expressing your views online. i think it would be cool if unknown strangers found this mysterious webpage and agreed with some of the future posts&#xA;the goal is to go as MINIMAL AS POSSIBLE.</description>
     </item>
   </channel>
 </rss>
